@@ -1,0 +1,9 @@
+---
+title: "Thamer's Quarto Website"
+---
+
+Hello and welcome!
+
+My name is Thamer Aldawood.
+
+I'm a nerd who likes data.
